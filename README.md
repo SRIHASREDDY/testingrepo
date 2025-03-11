@@ -1,2 +1,2 @@
 # testingrepo
-practise for github actions
+practise for github actions certifications
